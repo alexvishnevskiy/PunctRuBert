@@ -4,3 +4,4 @@
 За основу был взят код из репозитория https://github.com/nkrnrnk/BertPunc.
 
 Ссылка на файлы необходимые для тренировки https://drive.google.com/drive/folders/1xoso9aPMzZcvNRxra8E8f-W46ie4TxMj?usp=sharing
+
